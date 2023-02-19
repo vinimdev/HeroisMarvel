@@ -1,0 +1,4 @@
+Error: Unable to initialize main class com.l7tech.console.Main
+Caused by: java.lang.NoClassDefFoundError: com/sun/java/swing/plaf/windows/WindowsLookAndFeel
+Error: Unable to initialize main class com.l7tech.console.Main
+Caused by: java.lang.NoClassDefFoundError: com/sun/java/swing/plaf/windows/WindowsLookAndFeel
